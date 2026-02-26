@@ -115,7 +115,7 @@ links.forEach(link => {
 
     with col2:
         st.markdown("## Basit Sultan Mohammed")
-        st.markdown("### Insurance & Risk Analyst")
+        st.markdown("### Insurance & Data Analyst")
 
         st.markdown("---")
 

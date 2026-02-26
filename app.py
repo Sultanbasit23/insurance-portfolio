@@ -109,7 +109,7 @@ links.forEach(link => {
 
     with col1:
         try:
-            st.image("assets/profile.jpg", use_container_width=True)
+            st.image("assets/profile.jpg", width=380)
         except:
             st.warning("Profile image not found.")
 
